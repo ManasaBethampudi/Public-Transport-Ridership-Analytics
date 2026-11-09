@@ -1,0 +1,11 @@
+pandas
+numpy
+mlxtend
+fastapi
+uvicorn[standard]
+requests
+streamlit
+plotly
+scikit-learn
+PyPDF2
+reportlab

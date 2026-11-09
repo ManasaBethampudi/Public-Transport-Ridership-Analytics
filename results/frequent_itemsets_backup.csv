@@ -1,0 +1,54 @@
+support,itemsets
+0.2,Day_Monday
+0.15,Day_Thursday
+0.2,Day_Tuesday
+0.15,Day_Wednesday
+0.65,Ridership_High
+0.2,Ridership_Low
+0.15,Ridership_Medium
+0.45,Route_R10
+0.3,Route_R15
+0.25,Route_R20
+0.3,Stop_StopA
+0.15,Stop_StopB
+0.2,Stop_StopC
+0.15,Stop_StopE
+0.25,Time_Evening
+0.65,Time_Morning
+0.15,"Day_Monday, Ridership_High"
+0.15,"Day_Monday, Route_R10"
+0.15,"Day_Monday, Time_Morning"
+0.2,"Day_Tuesday, Ridership_High"
+0.4,"Ridership_High, Route_R10"
+0.25,"Ridership_High, Route_R15"
+0.25,"Ridership_High, Stop_StopA"
+0.15,"Ridership_High, Stop_StopB"
+0.15,"Ridership_High, Stop_StopC"
+0.25,"Ridership_High, Time_Evening"
+0.4,"Ridership_High, Time_Morning"
+0.15,"Ridership_Low, Route_R20"
+0.15,"Ridership_Medium, Time_Morning"
+0.3,"Route_R10, Stop_StopA"
+0.15,"Route_R10, Stop_StopB"
+0.3,"Route_R10, Time_Morning"
+0.2,"Route_R15, Stop_StopC"
+0.15,"Route_R15, Time_Evening"
+0.15,"Route_R15, Time_Morning"
+0.15,"Route_R20, Stop_StopE"
+0.2,"Route_R20, Time_Morning"
+0.15,"Stop_StopA, Time_Morning"
+0.15,"Stop_StopB, Time_Morning"
+0.15,"Stop_StopC, Time_Morning"
+0.15,"Day_Monday, Ridership_High, Time_Morning"
+0.25,"Ridership_High, Route_R10, Stop_StopA"
+0.15,"Ridership_High, Route_R10, Stop_StopB"
+0.3,"Ridership_High, Route_R10, Time_Morning"
+0.15,"Ridership_High, Route_R15, Stop_StopC"
+0.15,"Ridership_High, Route_R15, Time_Evening"
+0.15,"Ridership_High, Stop_StopA, Time_Morning"
+0.15,"Ridership_High, Stop_StopB, Time_Morning"
+0.15,"Route_R10, Stop_StopA, Time_Morning"
+0.15,"Route_R10, Stop_StopB, Time_Morning"
+0.15,"Route_R15, Stop_StopC, Time_Morning"
+0.15,"Ridership_High, Route_R10, Stop_StopA, Time_Morning"
+0.15,"Ridership_High, Route_R10, Stop_StopB, Time_Morning"
